@@ -6,7 +6,9 @@ This follows 4 weeks of in-depth training sessions in both Tableau and Power BI
 This data was sourced from US.gov and the Los Angeles Police Department
 
 This data was retrieved from the US.gov website
-**Dataset Size: Over 1 million records**
+
+Dataset Size: Over 1 million records
+
 
 
 **Problem to Solve:**
