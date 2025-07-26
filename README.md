@@ -1,4 +1,6 @@
 # Power-BI-Dashboard-for-Analyzing-Crimes-in-Los-Angeles
+NB. PBIX file too large for github--> view on Google Drive here: https://drive.google.com/file/d/1Dna7q_KsH6XVNKwsn6CuFUHQ67apaJf0/view
+
 **Overview:**
 This is the capstone project from the Dataworks Winter 2025 cohort facilitated
 by the Metropolitan Data Science Association at my university
@@ -28,3 +30,4 @@ insights of historical trends to inform policy and planning
 3. Data Visualization
 4. Storytelling with Data
 5. Dashboard Design
+
