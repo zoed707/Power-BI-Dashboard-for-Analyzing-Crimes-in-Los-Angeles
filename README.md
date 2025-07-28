@@ -1,5 +1,6 @@
 # Power-BI-Dashboard-for-Analyzing-Crimes-in-Los-Angeles
-NB. PBIX file too large for github--> view on Google Drive here: https://drive.google.com/file/d/1Dna7q_KsH6XVNKwsn6CuFUHQ67apaJf0/view
+**NB. 1. PBIX file too large for github--> view on Google Drive here: https://drive.google.com/file/d/1Dna7q_KsH6XVNKwsn6CuFUHQ67apaJf0/view
+      2. A static image of the dashboard can be found in this repo
 
 **Overview:**
 This is the capstone project from the Dataworks Winter 2025 cohort facilitated
@@ -14,9 +15,7 @@ Dataset Size: Over 1 million records
 
 
 **Problem to Solve:**
-While Los Angeles is one of the most desirable places to live for many, it is also
-notoriously one of the most dangerous. As such, tracking and understanding
-trends is crucial for improving urban planning and public safety.
+While Los Angeles is one of the most desirable places to live for many, it is also notoriously one of the most dangerous. As such, tracking and understanding trends is crucial for improving urban planning and public safety.
 
 
 **Outcome:**
